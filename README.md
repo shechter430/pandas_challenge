@@ -1,4 +1,4 @@
-# 
+# Pandas Challenge
 
 This code analyzes a data set from a gaming company that tracked their users and their users purchases. Some easily observable trends were that users were primarily male within the 20-24 age range, additionally within the 35-39 age range the average total purchase price per item was larger than any other group. Lastly, the most popular items were also the most profitable items. 
 
